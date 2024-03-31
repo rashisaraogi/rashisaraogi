@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rashi Saraogi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 <img src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashisaraogi&label=Profile%20views&color=0e75b6&style=flat" alt="rashisaraogi" /> </p>
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Brawl-Stats**
 
-- 🌱 I’m currently learning **MySQL, JS**
+- 🌱 I’m currently learning **MySQL, PowerBI**
 
 - 💬 Ask me about **Python, HTML, CSS**
 
